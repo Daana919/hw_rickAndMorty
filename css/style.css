@@ -1,0 +1,32 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: rgb(80, 65, 36);
+}
+.wrapper {
+    display: flex;
+    justify-content: space-around;
+    background: beige;
+  }
+
+  ul {
+    padding: 0;
+    margin: 0;
+  }
+
+  .block-1 {
+    padding: 25px;
+    border: 5px solid rgb(237, 164, 255);
+  }
+
+  .block-2 {
+    padding: 25px;
+    border: 5px solid rgb(164, 219, 255);
+  }
